@@ -5,6 +5,8 @@
 - you can excute the app on you phone or any simulator to use the application
 - small note i add two images and this text file (readme) to the app files just to see the interface and info so  you can delete its
 
+### to get it run this command in the terminal (cmd)
+
 ```
 git clone https://github.com/Youssef530245/Calculator-App.git
 ```
